@@ -1,1 +1,0 @@
-worker: python yourfile.py
